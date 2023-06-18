@@ -1,8 +1,13 @@
-### Hi there 👋
+<h2> Who am I?</h1>
+<p>I am a student studying at McGill University, majoring in Computer Science. I'm currently interested in learning about APIs and building projects based around communicating with APIs</p>
 
-<h1> Who am I?</h1>
-<p>I am a student studying at McGill University majoring in Computer Science.</p>
-
+<h3>Tech Stack</h3>
+<p>Programming languages I am currently familar with:</p>
+<ul>
+  <li>Python</li>
+  <li>Java</li>
+  <li>HTML, CSS, JS</li>
+</l>
 <!--
 **Jiayel9/Jiayel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
