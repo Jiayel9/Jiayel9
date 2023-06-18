@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<header> Who am I?</header>
+<h1> Who am I?</h1>
 <p>I am a student studying at McGill University majoring in Computer Science.</p>
 
 <!--
