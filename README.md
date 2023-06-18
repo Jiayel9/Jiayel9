@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<header> Who am I?</header>
+<p>I am a student studying at McGill University majoring in Computer Science.</p>
+
 <!--
 **Jiayel9/Jiayel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
